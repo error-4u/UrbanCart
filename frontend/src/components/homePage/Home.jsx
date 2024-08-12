@@ -20,10 +20,10 @@ function Home() {
         <>
             <div className="grid grid-cols-1 md:grid-cols-2 h-screen">
                 <div className="flex flex-col mt-20 items-center p-10 bg-gray-100">
-                    <h1 className="text-4xl md:text-6xl font-bold mb-4">Welcome to Darubazz</h1>
+                    <h1 className="text-4xl md:text-6xl font-bold mb-4">Welcome to UrbanMart</h1>
                     <p className="mt-12 text-lg md:text-2xl text-center">
-                        Enjoy the special moments of your life with friends and a glass of Daru.
-                        Experience the spirit of true friendship.
+                        Celebrate the special moments of your life with friends and the perfect purchases from our store.
+                        Experience the joy of shopping and sharing together.
                     </p>
                     <button
                         onClick={handleNavigate}
